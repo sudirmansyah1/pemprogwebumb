@@ -3,6 +3,7 @@
 <head>
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="css/table.css">
+	<link rel="stylesheet" type="text/css" href="css/fasilitas.css">
 </head>
 <body>
 		<table>
@@ -47,6 +48,33 @@
 				<td>8 x 8 M</td>
 			</tr>
 		</table>
+	</div>
+	<div class="baris">
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
+
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
+
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
+	</div>
+
+	<div class="baris">
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
+
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
+		
+		<div class="kolom">
+			<img src="img/fasilitas/fasilitas.png" width="100%">
+		</div>
 	</div>
 </body>
 </html>

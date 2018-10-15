@@ -1,0 +1,12 @@
+.baris {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.kolom {
+  float: left;
+  width: 30%;
+  padding: 10px;
+  height: 300px;
+}
