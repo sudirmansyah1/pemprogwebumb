@@ -1,0 +1,51 @@
+* {box-sizing: border-box;}
+
+	.kolomtxt{
+		float: left;
+		width: 50%;
+		padding-left: 30px;
+		padding-right: 30px;
+		height: 600px;
+	}
+
+	.koloimg{
+		float: left;
+		width: 50%;
+		height: 600px;
+	}
+
+	.row:after{
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.text{
+		font-size: 17px;
+		font-family: Arial;
+		color: white;
+		line-height: 1.5em;
+		text-align: justify;
+		text-indent: 30px;
+	}
+
+	.judul{
+		text-align: left;
+		font-family: arial;
+		color: white;
+	}
+
+	a:link, a:visited{
+		border: 2px solid #f1f1f1;
+		color: white;
+		padding: 10px 20px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-family: arial;
+	}
+
+	a:hover{
+		background-color: white;
+		color: dimgrey;
+	}

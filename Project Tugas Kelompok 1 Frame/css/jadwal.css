@@ -1,0 +1,23 @@
+
+table {
+		width: 100%;
+		border-collapse: collapse;
+	}
+
+table#jadwal th {
+		background-color: #80bdff;
+		color: white;
+		text-align: center;
+	}
+
+tr:hover {
+		background-color: #f2f2f2;
+	}
+		
+th,td {
+		padding: 12px;
+		text-align: center;
+		vertical-align: middle;
+		border-bottom: 1px solid #008080;
+		color: #1a8cff;
+	}

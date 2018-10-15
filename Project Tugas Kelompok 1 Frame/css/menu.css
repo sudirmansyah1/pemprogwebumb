@@ -1,0 +1,20 @@
+
+.hiasan {
+    margin: 0;
+    overflow: hidden;
+    background-color: #80bdff;
+}
+
+.hiasan a {
+    float: none;
+    display: block;
+    color: #474443;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.hiasan a:hover {
+    background-color: #e6f2ff;
+    color: #474443;
+}

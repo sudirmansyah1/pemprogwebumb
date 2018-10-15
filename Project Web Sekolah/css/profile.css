@@ -1,0 +1,28 @@
+.row *{
+  position: relative;
+  box-sizing: border-box;
+  top: 40px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+  }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.column img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column a{
+  text-decoration: none;
+  color: #3178d6;
+}
